@@ -10,3 +10,6 @@ citation: 'Huang, R., & Liu, R. (2017). Efficient in situ growth of platinum nan
 ---
 
 Hydrophobic Fe3O4 nanoparticles were modified with polyethyleneimine (PEI) to obtain hydrophilic Fe3O4 nanoparticles. By reducing the content of H2PtCl6 solution by using L-ascorbic acid (AA) as a reductive agent, fluorescent platinum nanoclusters (Pt NCs) were incubated into the PEI-modified Fe3O4 nanoparticles. The prepared Fe3O4@Pt NCs microspheres possessed a uniform size, improved monodispersity, high magnetization (40.8 emu/g) and high fluorescence quantum yield (9.0%). Moreover, compared to the reported methods, this method demonstrated that the incubation of Pt NCs on the surface of PEI-Fe3O4 was more convenient and needed less reaction time (about 10 min). The experimental results showed that latent fingermarks developing with Fe3O4@Pt NCs powder exhibit excellent ridge details. The Fe3O4@Pt NCs with superparamagnetism and excellent fluorescence showed great potential in forensic science.
+
+![GitHub Logo](../images/raypaper1.png)
+
