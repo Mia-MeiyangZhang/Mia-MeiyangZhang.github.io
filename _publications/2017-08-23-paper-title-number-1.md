@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-08-23-paper-title-number-1
 excerpt: 'This represents the culmination of my undergraduate research in pursuit of a Bachelor of Engineering degree, which delved into the synthesis of a noval fluorescent magnetic nanomaterial and its utilization for visualizing latent fingermarks at crime scenes.'
 date: 2017-08-23
-venue: 'Journal of Materials Science'
+venue: 'Journal of Materials Science (JCR Q2, IF=4.5)'
 paperurl: 'http://ray-austin.github.io/files/raypaper1.pdf'
 citation: 'Huang, R., & Liu, R. (2017). Efficient in situ growth of platinum nanoclusters on the surface of Fe3O4 for the detection of latent fingermarks. Journal of Materials Science, 52(23), 13455-13465.'
 ---
