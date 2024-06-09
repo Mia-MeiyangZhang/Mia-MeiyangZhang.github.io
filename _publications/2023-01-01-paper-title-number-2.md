@@ -2,7 +2,7 @@
 title: "Innovation incentives and urban carbon dioxide emissions: A quasi-natural experiment based on fast-tracking green patent applications in China"
 collection: publications
 permalink: /publication/2023-01-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'Using the patent review system as an entry point, my co-authors and I assessed the economic effectiveness of innovation incentives for environmental protection.'
 date: 2023-01-01
 venue: 'Journal of Cleaner Production (JCR Q1, IF=11.1)'
 paperurl: 'http://ray-austin.github.io/files/raypaper2.pdf'
