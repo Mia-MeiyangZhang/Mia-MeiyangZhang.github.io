@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2017-08-23-paper-title-number-1
 excerpt: 'In this study, my co-authors and I found interesting correlations between the patent review system and patent length, and conducted an empirical investigation on the impact of patent length on innovation development.'
 date: 2024-01-01
-venue: 'Technological Forecasting and Social Change'
+venue: 'Technological Forecasting and Social Change (JCR Q1, IF=12)'
 paperurl: 'http://ray-austin.github.io/files/raypaper4.pdf'
 citation: 'Zhang, M., Zhu, X., & Liu, R. (2024). Patent length and innovation: Novel evidence from China. Technological Forecasting and Social Change, 198, 123010.'
 ---
