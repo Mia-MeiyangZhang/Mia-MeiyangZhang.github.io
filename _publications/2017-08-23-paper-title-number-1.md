@@ -1,5 +1,5 @@
 ---
-title: "Efficient in situ growth of platinum nanoclusters on the surface of Fe3O4 for the detection of latent fingermarks"
+title: "Efficient in situ growth of platinum nanoclusters on the surface of Fe<sub>3</sub>O<sub>4</sub> for the detection of latent fingermarks"
 collection: publications
 permalink: /publication/2017-08-23-paper-title-number-1
 excerpt: 'This represents the culmination of my undergraduate research in pursuit of a Bachelor of Engineering degree, which delved into the synthesis of a noval fluorescent magnetic nanomaterial and its utilization for visualizing latent fingermarks at crime scenes.'
