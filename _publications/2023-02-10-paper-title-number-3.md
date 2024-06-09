@@ -1,7 +1,7 @@
 ---
 title: "The impact of external technology acquisition on enterprise innovation performance: the moderating effect of geographical distance"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
+permalink: /publication/2023-02-10-paper-title-number-3
 excerpt: 'This article focuses on the implications of the distance characteristics of inter-firm technology transactions (mainly in the form of patent transfers) for subsequent innovation by firms.'
 date: 2023-02-10
 venue: 'Technology Analysis & Strategic Management (JCR Q3, IF=3.4)'
