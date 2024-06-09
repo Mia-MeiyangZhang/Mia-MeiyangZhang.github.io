@@ -14,6 +14,4 @@ My current research pursuits center around the economic analysis of innovation, 
 
 In my spare time, I'm also a [vlogger](https://space.bilibili.com/7688394) in Bilibili with over 26,000 followers.
 
-You can find my CV here: [Austin's CV](../assets/CV.pdf).
-
 Contact me at: forensicscience@foxmail.com / rayip@tongji.edu.cn
