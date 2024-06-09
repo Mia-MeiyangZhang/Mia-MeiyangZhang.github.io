@@ -1,13 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "The impact of external technology acquisition on enterprise innovation performance: the moderating effect of geographical distance"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'This article focuses on the implications of the distance characteristics of inter-firm technology transactions (mainly in the form of patent transfers) for subsequent innovation by firms.'
+date: 2023-02-10
+venue: 'Technology Analysis & Strategic Management'
+paperurl: 'http://ray-austin.github.io/files/raypaper3.pdf'
+citation: 'Hu, C., Zhu, X., Liu, R., & Teng, Z. (2023). The impact of external technology acquisition on enterprise innovation performance: the moderating effect of geographical distance. Technology Analysis & Strategic Management, 1-15.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Enterprises often acquire technologies from external sources which are geographically dispersed. Although previous literatures have discussed the role of external technology acquisition (ETA) in enterprises’ innovation performance, how innovation is affected by the breadth and depth of ETA is less investigated, and little is known about how geographical distance (GD) is involved. Therefore, this paper first analyses the relationship between the breadth, depth of ETA and enterprises’ innovation performance with patent transaction data of listed manufacturing enterprises in China. Then we further investigate how GD moderates the relationship. Results show that both the breadth and depth of ETA positively affect enterprises’ innovation performance. GD has no moderating effect on the relationship between the breadth of ETA and enterprises’ innovation performance, but negatively moderates the relationship between the depth of ETA and enterprises’ innovation performance. Our results have implications for enterprises’ ETA strategy.
