@@ -21,7 +21,7 @@ repository               : "ray-austin/ray-austin.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "ray.png"
+  avatar           : #"ray.png"
   name             : "Rui Austin Liu"
   pronouns         : # example: "she/her"  
   bio              : "Searching for flowers in a fig tree"
