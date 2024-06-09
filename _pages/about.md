@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "Hello! It's Austin."
-excerpt: "Hello! It's Austin."
+title: "Hi! It's Austin."
+excerpt: "Hi! It's Austin."
 author_profile: true
 redirect_from: 
   - /about/
