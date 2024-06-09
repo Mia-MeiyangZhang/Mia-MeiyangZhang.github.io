@@ -12,6 +12,8 @@ I am a PhD candidate undergoing joint training through the [Shanghai Internation
 
 My current research pursuits center around the economic analysis of innovation, with a particular focus on evaluating the effectiveness of patent systems. My doctoral thesis revolves around developing a comprehensive cost-benefit framework for patent disclosure. This encompasses an exploration of its positive externalities on a macroeconomic scale, as well as its ramifications for strategic management behaviors within firms on a microeconomic level. Furthermore, I am keen on assessing the economic impacts of patent review policies, along with the technological lock-in effect stemming from patent exclusivity within the framework of global power competition.
 
+In my spare time, I'm also a [vlogger](https://space.bilibili.com/7688394) in Bilibili with over 26,000 followers.
+
 You can find my CV here: [Austin's CV](../assets/CV.pdf).
 
-Contact: forensicscience@foxmail.com / rayip@tongji.edu.cn
+Contact me at: forensicscience@foxmail.com / rayip@tongji.edu.cn
