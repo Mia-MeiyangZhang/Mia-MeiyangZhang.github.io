@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rui Austin Liu"
+title                    : "Hi! It's Austin."
 title_separator          : "-"
 name                     : &name "Rui Austin Liu"
 description              : &description "Searching for flowers in a fig tree"
@@ -26,7 +26,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Searching for flowers in a fig tree"
   location         : "Shanghai, China / Munich, Germany"
-  employer         : "Tongji University / Max Planck Institute for Innovation and Competition"
+  employer         : "Tongji University / MPIC"
   uri              : # URL
   email            : "forensicscience@foxmail.com" 
 
