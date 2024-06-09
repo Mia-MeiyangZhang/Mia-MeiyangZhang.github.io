@@ -8,11 +8,11 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Rui Austin Liu / Personal page"
+title                    : "Rui Austin Liu"
 title_separator          : "-"
 name                     : &name "Rui Austin Liu"
 description              : &description "Searching for flowers in a fig tree"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ray-austin.github.io"
+url                      : https://ray-austin.github.io # the base hostname & protocol for your site e.g. "https://ray-austin.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ray-austin/ray-austin.github.io"
 
