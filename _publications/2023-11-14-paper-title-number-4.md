@@ -1,11 +1,11 @@
 ---
 title: "China's High-Quality Innovation Development from An Institutional Perspective: Regional Differences and Convergence"
 collection: publications
-permalink: /publication/2023-4-paper-title-number-4
+permalink: /publication/2023-11-14-paper-title-number-4
 excerpt: 'In this study, my co-authors and I construct a dataset of high-value inventions, and we find that High-Quality Inventions are significantly and positively correlated with various indicators measuring the quality and value of patents.'
-date: 2023
+date: 2023-11-14
 venue: 'Technological and Economic Development of Economy'
-paperurl: 'http://mia-meiyangzhang.github.io/files/miapaper4.pdf'
+paperurl: 'http://Mia-MeiyangZhang.github.io/files/miapaper4.pdf'
 citation: 'Cheng, K., Chen, H., Zhang, F., & Zhang, M. (2023). China’s high-quality innovation development from an institutional perspective: regional differences and convergence. Technological and Economic Development of Economy, 29(6), 1657-1686.'
 ---
 
