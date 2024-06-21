@@ -1,11 +1,11 @@
 ---
 title: "The Power of Standards: Empirical Evidence from China’s Standard Essential Patents"
 collection: publications
-permalink: /publication/2023-3-paper-title-number-3
+permalink: /publication/2023-10-01-paper-title-number-3
 excerpt: 'In this study, we investigate how technical standards affect patent value and corporate innovation. The findings suggest that while technical standards facilitate technology diffusion and corporate innovation, they also wield market power, resulting in additional market value for the associated patent technology beyond its inherent technological contribution.'
-date: 2023
+date: 2023-10-01
 venue: 'Management World (in Chinese)'
-paperurl: 'http://mia-meiyangzhang.github.io/files/miapaper3.pdf'
+paperurl: 'http://Mia-MeiyangZhang.github.io/files/miapaper3.pdf'
 citation: 'Long, X. & Zhang, M. (2023). The Power of Standards: Empirical Evidence from China’s Standard Essential Patents. Management World (in Chinese), 39(10), 149-168+227. 龙小宁,张美扬.标准的力量——来自中国标准必要专利的经验证据[J].管理世界,2023,39(10):149-168+227.'
 ---
 
