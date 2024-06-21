@@ -1,11 +1,11 @@
 ---
 title: "Innovation incentives and urban carbon dioxide emissions: A quasi-natural experiment based on fast-tracking green patent applications in China"
 collection: publications
-permalink: /publication/2023-01-01-paper-title-number-2
+permalink: /publication/2023-1-paper-title-number-1
 excerpt: 'Using the patent review system as an entry point, my co-authors and I assessed the economic effectiveness of innovation incentives for environmental protection.'
-date: 2023-01-01
+date: 2023
 venue: 'Journal of Cleaner Production (JCR Q1, IF=11.1)'
-paperurl: 'http://ray-austin.github.io/files/raypaper2.pdf'
+paperurl: 'http://mia-meiyangzhang.github.io/files/miapaper1.pdf'
 citation: 'Liu, R., Zhu, X., Zhang, M., & Hu, C. (2023). Innovation incentives and urban carbon dioxide emissions: A quasi-natural experiment based on fast-tracking green patent applications in China. Journal of Cleaner Production, 382, 135444.'
 ---
 
