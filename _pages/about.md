@@ -1,17 +1,19 @@
 ---
 permalink: /
-title: "Hi! It's Austin."
-excerpt: "Hi! It's Austin."
+title: "Hi! It’s Mia."
+excerpt: "Hi! It’s Mia."
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a PhD candidate jointly trained by the [Shanghai International College of Intellectual Property (SICIP)](https://sicip.tongji.edu.cn/main.htm) at Tongji University and the [Max Planck Institute for Innovation and Competition (MPIC)](https://www.ip.mpg.de/en/), under the guidance of [Prof. Xuezhong Zhu](https://sicip.tongji.edu.cn/13/e2/c13550a136162/page.htm) and [Dr. Matthias Lamping](https://www.ip.mpg.de/en/persons/lamping-matthias.html) respectively. Prior to this, I attained my Juris Master's degree from Xiamen University and a Bachelor's degree in Engineering from Southwest University of Political Science and Law.
+I am an assistant professor in School of Law and Economics, Zhongnan University of Economics and Law. Prior to this, I received my Ph.D. in economics from Xiamen University and my bachelor's degree in economics from Nanjing University of Aeronautics and Astronautics.
 
-My current research pursuits center around the economic analysis of innovation, with a particular focus on evaluating the effectiveness of patent systems. My doctoral thesis revolves around developing a comprehensive cost-benefit framework for patent disclosure. This encompasses an exploration of its positive externalities on a macroeconomic scale, as well as its ramifications for strategic management behaviors within firms on a microeconomic level. Furthermore, I am keen on assessing the economic impacts of patent review policies, along with some other patent-related empirical studies within the framework of global power competition.
+My research focuses on the role of the intellectual property protection system in stimulating innovation, and involves understanding how innovators commercialize new ideas.
 
-In my spare time, I'm also a [vlogger](https://space.bilibili.com/7688394) in Bilibili with over 26,000 followers.
+Innovation has long played an important role in economic development. The patent system, as a key institutional arrangement to stimulate innovation, encourages and protects innovation by granting the inventor monopoly power over the invention for a certain period. It is important to note that patent protection may also bring about some downsides of monopoly, including lowering consumer welfare and hindering follow-on innovation. So far, academic research on the effects of patent protection on innovation and economic growth has yielded fruitful results. However, most studies focus on the innovation incentive benefits of patent protection and pay insufficient attention to the monopoly loss costs of patent protection. There is a lack of empirical studies with developing countries as the research target, and they fail to exploit rich patent institutional arrangements and different protection forms to examine how patent protection affects innovation. In fact, innovation needs to be carried out based on existing technologies, thus the degree of protection for prior art profoundly affects the level of follow-on innovation.
 
-Contact me at: forensicscience@foxmail.com / rayip@tongji.edu.cn
+To fill this research gap, I focus on innovation incentive benefits and monopoly loss costs of the patent system from the perspective of cumulative innovation, takes China, a large developing country with multiple industries, as the research object, exploits rich patent institutional arrangements and different protection forms to conduct research. Based on several patent and innovation related micro datasets, I combine theoretical and empirical analysis to study the effects of patent protection on follow-on innovation and the mechanism.
+
+Contact me at: daisy_zhang0623@foxmail.com
