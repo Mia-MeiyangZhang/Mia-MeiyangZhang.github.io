@@ -5,7 +5,7 @@ permalink: /publication/2023-06-08-paper-title-number-2
 excerpt: 'By leveraging firm registration data from 2003 to 2014, and exploiting the staggered construction of China’s high-speed rail (HSR) as a quasi-natural experiment, this paper studies the effects of falling communication costs on firms’ cross-regional development.'
 date: 2023-06-08
 venue: 'Economic Modelling'
-paperurl: 'http://mia-meiyangzhang.github.io/files/miapaper2.pdf'
+paperurl: 'http://Mia-MeiyangZhang.github.io/files/miapaper2.pdf'
 citation: 'Chen, H., Cheng, K., & Zhang, M. (2023). Does geographic proximity affect firms’ cross-regional development? Evidence from high-speed rail construction in China. Economic Modelling, 126, 106402.'
 ---
 
